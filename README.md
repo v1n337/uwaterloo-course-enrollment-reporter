@@ -6,7 +6,7 @@ Simple script to send email reports for open seats in University of Waterloo cou
 
 ## Instructions
 * Verify URL on line 6
-* Change course list on line 8 (can be a list of recipients
+* Change course list on line 8 (can be a list of recipients)
 * Change recipient on line 9
 * Change email sender on line 50
 * Change credentials on line 58
