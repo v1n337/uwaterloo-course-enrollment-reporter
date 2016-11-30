@@ -3,6 +3,8 @@ Simple script to send email reports for open seats in University of Waterloo cou
 
 ## Requirements
 * Python 2.7+
+* BeautifulSoup
+* SMTP-Lib
 
 ## Instructions
 * Verify URL on line 6
